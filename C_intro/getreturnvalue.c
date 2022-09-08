@@ -9,7 +9,8 @@ int add_two(int x, int y) {
 }
 
 int main() {
-  printf("Result is: %d\n", add_two(5, 3));
+  int result = add_two(5,3);
+  printf("Result is: %d\n", result);
 
   return 0;
 }
