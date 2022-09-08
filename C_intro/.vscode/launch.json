@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/emeka/cprogram/hello_world",
-      "program": "/home/emeka/cprogram/hello_world/build/Debug/outDebug",
+      "cwd": "/home/emeka/nlc_workshop/nlc-foundations/C_intro",
+      "program": "/home/emeka/nlc_workshop/nlc-foundations/C_intro/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
